@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <string>
 
 int main()
@@ -12,4 +12,4 @@ int main()
 	std::cout << "Hello, " << name << " " << surname << std::endl;
 
 	return 0;
-}*/
+}
